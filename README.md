@@ -11,7 +11,7 @@ Composer plugin for installing assets, backported for PHP 5.3.
 Use [Composer](http://getcomposer.org/):
 
 ```
-composer require frontpack/composer-assets-plugin
+composer require delboy1978uk/composer-assets-plugin
 ```
 
 Library requires PHP 5.3 or later.
