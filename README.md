@@ -1,7 +1,7 @@
 
 # Composer Assets Plugin
 
-Composer plugin for installing assets.
+Composer plugin for installing assets, backported for PHP 5.3.
 
 <a href="https://www.patreon.com/bePatron?u=9680759"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron!" height="35"></a>
 
@@ -14,7 +14,7 @@ Use [Composer](http://getcomposer.org/):
 composer require frontpack/composer-assets-plugin
 ```
 
-Library requires PHP 5.4.0 or later.
+Library requires PHP 5.3 or later.
 
 
 ## Commands
