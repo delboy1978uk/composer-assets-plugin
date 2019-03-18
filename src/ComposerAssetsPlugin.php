@@ -1,6 +1,6 @@
 <?php
 
-namespace Frontpack\ComposerAssetsPlugin;
+namespace Del\ComposerAssetsPlugin;
 
 use Composer\Composer;
 use Composer\IO\IOInterface;
@@ -33,7 +33,7 @@ class ComposerAssetsPlugin implements PluginInterface,EventSubscriberInterface, 
     public function getCapabilities()
     {
         return array(
-            'Composer\Plugin\Capability\CommandProvider' => 'Frontpack\ComposerAssetsPlugin\CommandProvider',
+            'Composer\Plugin\Capability\CommandProvider' => 'Del\ComposerAssetsPlugin\CommandProvider',
         );
     }
 

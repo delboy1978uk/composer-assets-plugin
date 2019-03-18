@@ -1,6 +1,6 @@
 <?php
 
-namespace Frontpack\ComposerAssetsPlugin;
+namespace Del\ComposerAssetsPlugin;
 
 use Composer\Command\BaseCommand;
 use Symfony\Component\Console\Input\InputInterface;

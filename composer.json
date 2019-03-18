@@ -1,12 +1,16 @@
 {
-	"name": "frontpack/composer-assets-plugin",
+	"name": "delboy1978uk/composer-assets-plugin",
 	"type": "composer-plugin",
-	"description": "Composer plugin for installing of assets.",
+	"description": "Composer plugin for installing of assets backported for PHP 5.3.",
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
 			"name": "Jan Pecha",
 			"homepage": "http://www.janpecha.cz/"
+		},
+		{
+			"name": "Derek Stephen McLean",
+			"homepage": "https://github.com/delboy1978uk"
 		}
 	],
 	"autoload": {
@@ -17,6 +21,6 @@
 		"composer-plugin-api": "^1.0"
 	},
 	"extra": {
-		"class": "Frontpack\\ComposerAssetsPlugin\\ComposerAssetsPlugin"
+		"class": "Del\\ComposerAssetsPlugin\\ComposerAssetsPlugin"
 	}
 }

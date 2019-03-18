@@ -1,6 +1,6 @@
 <?php
 
-namespace Frontpack\ComposerAssetsPlugin;
+namespace Del\ComposerAssetsPlugin;
 
 use Composer\Plugin\Capability\CommandProvider as ComposerCommandProvider;
 

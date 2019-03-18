@@ -1,6 +1,6 @@
 <?php
 
-namespace Frontpack\ComposerAssetsPlugin;
+namespace Del\ComposerAssetsPlugin;
 
 
 class Exception extends \RuntimeException
